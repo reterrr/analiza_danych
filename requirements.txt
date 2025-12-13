@@ -1,3 +1,5 @@
+cupy
+xgboost
 matplotlib
 joblib==1.5.2
 numpy==2.3.4
